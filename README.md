@@ -5,8 +5,8 @@ A collection of front-end development projects including responsive layouts, CSS
 This is a simple login page project created as part of my HTML & CSS practice. It features an astronomy-themed background to make the design more creative.
 ---
 ## 🛠 Technologies Used
-- HTML5  
-- CSS3  
+- HTML
+- CSS 
 ---
 ## 📖 What I Learned
 - How to structure a basic HTML page  
