@@ -18,3 +18,5 @@ This is a simple login page project created as part of my HTML & CSS practice. I
 ## 🌐 Live Demo
 👉 [View Project](https://maziaramzan80.github.io/HTML-CSS-Practice/1stLoginPage)
 ---
+## Screenshot
+![Login Page](1stLoginPage/Screenshot (221).png)
