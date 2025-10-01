@@ -20,5 +20,4 @@ It features an *astronomy-themed background* to make the design more creative.
 👉 [View Project](https://maziaramzan80.github.io/HTML-CSS-Practice/1stLoginPage)
 ---
 ## 📷 Screenshot
-![Login Page Screenshot]
-(https://github.com/maziaramzan80/HTML-CSS-Practice/blob/main/1stLoginPage/Screenshot%20(221).png)
+![Login Page Screenshot](Screenshot(221).png)
